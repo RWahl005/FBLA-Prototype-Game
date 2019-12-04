@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 05d4ae0b59638134db7dec932a976c83
+  - enabled: 1
+    path: Assets/Scenes/PhysicsTest.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SpriteTest.unity
+    guid: 7590448a59e670c4ba251f2c30164bf1
+  - enabled: 1
+    path: Assets/Scenes/FullSpriteTest.unity
+    guid: fad13068bf0582c4b8a35f370a665c49
+  m_configObjects: {}
